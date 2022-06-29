@@ -1,2 +1,2 @@
-# Machine-Learning-Projects
+# Machine Learning Projects
 Some Machine Learning projects to practice Python, SciKit, NumPy, Pandas...
