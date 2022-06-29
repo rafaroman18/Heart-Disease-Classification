@@ -1,1 +1,7 @@
+# Conda environment
 env
+
+# Jupyter checkpoints
+*.ipynb_checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
