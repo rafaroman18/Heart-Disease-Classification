@@ -9,7 +9,7 @@ To do this we will be using these technologies:
 * **SciKit-Learn**
 * **Matplotlib**
 * **Python**
-* * **Jupyter Notebook**
+* **Jupyter Notebook**
 
 Also, this is a problem of **classification** since each patient will be tagged as "1" (heart disease) or "0" (no heart disease).
 
