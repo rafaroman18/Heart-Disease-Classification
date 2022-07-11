@@ -1,7 +1,7 @@
 # Heart Disease Classification
 **Machine Learning** project with the goal of creating a model that can predict **Heart Disease** on patients thanks to the **dataset** provided by **UCI Machine Learning Repository**: https://archive.ics.uci.edu/ml/datasets/heart+disease
 
-We will be doing building our **model** through a **Jupyter Notebook** contained in the `Classification` file so we can test at the moment every manipulation or visualization of the data.
+We will be doing building our **model** through a **Jupyter Notebook** contained in the `Classification.ipynb` file so we can test at the moment every manipulation or visualization of the data.
 
 To do this we will be using these technologies:
 * **Pandas**
